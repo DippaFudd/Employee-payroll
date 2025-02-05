@@ -18,3 +18,5 @@ The Employee Payroll Tracker is a web application designed to help manage employ
 - The application should be responsive and work on different screen sizes.
 - The application should handle invalid salary inputs by setting the salary to 0 if the input is not a valid number.
 - The application should use modern JavaScript features and best practices.
+
+  ![Image Alt](https://github.com/DippaFudd/Employee-payroll/blob/3ee1c97a634cb63ff276c24d0935777eccc02e17/2025-02-04.png)
