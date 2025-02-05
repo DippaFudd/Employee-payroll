@@ -5,6 +5,8 @@
 ## Description
 The Employee Payroll Tracker is a web application designed to help manage employee information, including their first name, last name, and salary. The application allows users to add multiple employees, calculate the average salary, and display a random employee. The employee data is displayed in a table format, sorted alphabetically by last name.
 
+![Image Alt](https://github.com/DippaFudd/Employee-payroll/blob/77a01ee6a761f8178bec75839886d4a7e3f47166/2025-02-04%20(2).png)
+
 ## Acceptance Criteria
 - The application should have a user interface that includes a button to add employees.
 - When the "Add Employee" button is clicked, the user should be prompted to enter the first name, last name, and salary of the employee.
