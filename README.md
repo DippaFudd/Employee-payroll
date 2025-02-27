@@ -5,7 +5,7 @@ AS A payroll manager
 I WANT AN employee payroll tracker
 SO THAT I can see my employees' payroll data and properly budget for the company.
 
-https://github.com/DippaFudd/Employee-payroll/blob/e97346d078d1cb9fbecff8540ec70ffd6ee93bec/2025-02-04%20(2).png
+
 ## Acceptance Criteria
 
 GIVEN an employee payroll tracker
@@ -18,8 +18,17 @@ THEN I am prompted to add a new employee
 WHEN I choose to cancel
 THEN my employee data is displayed on the page sorted alphabetically by last name, and the console shows computed and aggregated data
 
-https://github.com/DippaFudd/Employee-payroll/blob/e97346d078d1cb9fbecff8540ec70ffd6ee93bec/2025-02-04.png
 
-https://github.com/DippaFudd/Employee-payroll/blob/e97346d078d1cb9fbecff8540ec70ffd6ee93bec/2025-02-26%20(2).png
+![2025-02-04 (1)](https://github.com/user-attachments/assets/e1aaeab8-6f71-445e-b9a1-09ba30c52077)
+
+![2025-02-04](https://github.com/user-attachments/assets/2b54557f-891b-46b3-aecd-ef57fac446ad)
+
+![2025-02-26](https://github.com/user-attachments/assets/754c776a-8360-422a-8d0d-c6aad26a27eb)
+
+
+
+
+
+
 
 
