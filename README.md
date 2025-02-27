@@ -23,7 +23,8 @@ THEN my employee data is displayed on the page sorted alphabetically by last nam
 
 ![2025-02-04](https://github.com/user-attachments/assets/2b54557f-891b-46b3-aecd-ef57fac446ad)
 
-![2025-02-26](https://github.com/user-attachments/assets/754c776a-8360-422a-8d0d-c6aad26a27eb)
+![2025-02-26 (2)](https://github.com/user-attachments/assets/37cbe4ef-9891-466f-b13a-31d67ac4f78d)
+
 
 
 
