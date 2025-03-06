@@ -5,9 +5,9 @@ Welcome to the Employee Payroll Tracker! This application is designed to help pa
 The Employee Payroll Tracker is a tool designed for payroll managers to efficiently track and manage employee payroll data. This application allows users to input employee details, calculate average salaries, and display the data in a structured format. It also includes features to randomly select an employee and a winner from the list.
 
 ## User Story
-AS A payroll manager,
-I WANT an employee payroll tracker,
-SO THAT I can view my employees' payroll data and properly budget for the company.
+- **AS A** payroll manager,
+- **I WANT** an employee payroll tracker,
+- **SO THAT** I can view my employees' payroll data and properly budget for the company.
 
 ## Acceptance Criteria
 - **Given** an employee payroll tracker,
